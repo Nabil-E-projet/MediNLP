@@ -1,0 +1,1001 @@
+id,age,sexe,maladie,anciennete,date_consultation,traitement,effets_secondaires,reponse_traitement
+1,78,H,RCH extensive,1,18-10-2022,Azathioprine,,Échec
+2,22,H,Crohn iléo-colique,2,01-06-2022,Azathioprine,,Efficace
+3,70,H,RCH extensive,4,29-04-2021,Adalimumab,Douleurs articulaires,Efficace
+4,59,F,Crohn iléo-colique,10,29-09-2024,Azathioprine,,Échec
+5,44,F,Crohn iléo-colique,3,14-08-2023,Adalimumab,,Efficace
+6,35,H,RCH extensive,4,31-08-2005,Infliximab,Céphalées,Efficace
+7,18,H,Crohn iléo-colique,1,14-04-2024,Adalimumab,Fatigue,Échec
+8,29,F,RCH distale,1,30-10-2023,Adalimumab,,Efficace
+9,37,H,Crohn iléo-colique,6,07-12-2005,Infliximab,,Efficace
+10,53,H,RCH distale,4,06-10-2016,Mesalazine,,Partiel
+11,50,F,Crohn iléal,2,01-02-2021,Ustekinumab,"Nausées,Fatigue,Infections",Efficace
+12,23,F,Crohn iléo-colique,3,06-08-2010,Infliximab,"Réactions Cutanées,Nausées",Efficace
+13,50,H,Crohn iléo-colique,1,21-12-2021,Adalimumab,,Échec
+14,72,F,RCH extensive,3,03-08-2023,Adalimumab,,Efficace
+15,80,F,Crohn colique,1,03-12-2005,Azathioprine,,Partiel
+16,62,F,Crohn colique,4,31-05-2010,Infliximab,Céphalées,Efficace
+17,28,F,Crohn iléo-colique,6,15-07-2017,Ustekinumab,,Efficace
+18,49,H,Crohn iléo-colique,6,21-08-2023,Adalimumab,"Céphalées,Réactions Cutanées",Efficace
+19,50,F,RCH distale,10,01-08-2020,Mesalazine,,Efficace
+20,56,F,Crohn iléo-colique,6,11-04-2022,Adalimumab,"Réactions Cutanées,Infections",Efficace
+21,22,F,Crohn colique,3,10-01-2021,Vedolizumab,,Efficace
+22,36,F,Crohn iléo-colique,8,21-04-2022,Infliximab,"Infections,Douleurs articulaires",Efficace
+23,35,F,RCH distale,4,19-08-2022,Infliximab,Fatigue,Partiel
+24,44,H,MICI indéterminée,5,16-07-2023,Infliximab,,Efficace
+25,19,F,RCH distale,2,08-10-2022,Adalimumab,,Efficace
+26,73,F,RCH distale,9,06-10-2022,Infliximab,"Céphalées,Douleurs articulaires,Nausées",Partiel
+27,61,F,Crohn colique,9,06-01-2016,Infliximab,"Céphalées,Infections,Réactions Cutanées",Efficace
+28,29,H,Crohn iléo-colique,2,24-11-2016,Vedolizumab,,Efficace
+29,54,H,Crohn iléo-colique,6,15-03-2020,Azathioprine,,Échec
+30,37,H,RCH distale,4,27-03-2025,Ustekinumab,,Efficace
+31,15,F,MICI indéterminée,1,27-02-2022,Infliximab,Fatigue,Efficace
+32,51,H,RCH distale,4,03-12-2015,Ustekinumab,Infections,Efficace
+33,19,H,Crohn iléal,2,11-04-2013,Ustekinumab,,Échec
+34,19,F,Crohn iléo-colique,2,21-08-2022,Ustekinumab,,Partiel
+35,59,H,RCH distale,4,08-08-2024,Mesalazine,,Efficace
+36,15,F,Crohn colique,1,13-01-2024,Adalimumab,,Efficace
+37,36,F,RCH extensive,2,18-10-2021,Mesalazine,,Partiel
+38,41,F,RCH distale,2,08-10-2024,Vedolizumab,,Efficace
+39,29,H,RCH distale,2,06-04-2025,Infliximab,,Partiel
+40,56,F,RCH distale,8,26-06-2025,Ustekinumab,Nausées,Efficace
+41,20,F,RCH distale,2,03-08-2022,Adalimumab,,Efficace
+42,27,F,RCH distale,5,11-03-2024,Adalimumab,,Efficace
+43,36,F,RCH distale,1,23-09-2023,Infliximab,,Efficace
+44,26,F,Crohn iléal,10,11-04-2014,Infliximab,Fatigue,Efficace
+45,35,F,MICI indéterminée,2,14-04-2022,Adalimumab,Douleurs articulaires,Efficace
+46,40,F,RCH distale,20,26-05-2011,Adalimumab,,Partiel
+47,20,H,Crohn iléal,3,04-07-2016,Infliximab,Douleurs articulaires,Rechute
+48,76,F,RCH distale,1,19-10-2022,Mesalazine,,Efficace
+49,47,F,RCH extensive,6,13-02-2025,Mesalazine,Douleurs abdominales,Efficace
+50,29,H,Crohn iléal,2,02-03-2023,Adalimumab,,Efficace
+51,48,F,RCH distale,11,22-03-2021,Mesalazine,"Douleurs abdominales,Éruptions cutanées,Diarrhée",Échec
+52,71,F,Crohn iléal,6,12-01-2025,Vedolizumab,Fatigue,Partiel
+53,17,H,Crohn iléal,2,28-06-2006,Adalimumab,,Efficace
+54,45,F,Crohn iléo-colique,6,18-11-2011,Ustekinumab,,Rechute
+55,15,H,RCH extensive,1,28-06-2021,Azathioprine,,Efficace
+56,19,F,Crohn iléo-colique,1,01-07-2006,Ustekinumab,,Partiel
+57,28,H,RCH extensive,1,04-12-2020,Ustekinumab,,Partiel
+58,49,H,Crohn iléo-colique,1,03-01-2018,Infliximab,,Partiel
+59,16,F,MICI indéterminée,1,02-10-2022,Azathioprine,,Partiel
+60,23,F,Crohn iléo-colique,3,27-07-2012,Vedolizumab,,Rechute
+61,53,F,Crohn iléo-colique,1,09-08-2023,Adalimumab,Réactions Cutanées,Efficace
+62,47,H,RCH extensive,2,02-03-2024,Infliximab,,Efficace
+63,37,H,Crohn iléal,12,19-11-2006,Vedolizumab,,Partiel
+64,39,F,Crohn colique,4,29-09-2023,Ustekinumab,Céphalées,Efficace
+65,38,H,Crohn iléo-colique,4,21-11-2012,Adalimumab,,Efficace
+66,36,H,RCH distale,6,06-04-2017,Adalimumab,"Infections,Fatigue",Partiel
+67,28,F,Crohn colique,1,25-01-2024,Ustekinumab,,Efficace
+68,43,F,Crohn iléo-colique,9,24-06-2024,Infliximab,,Efficace
+69,66,H,Crohn colique,14,06-10-2020,Vedolizumab,"Infections,Arthralgie,Nausées",Efficace
+70,30,F,Crohn iléo-colique,5,29-04-2021,Infliximab,,Partiel
+71,36,F,Crohn iléo-colique,1,31-01-2021,Vedolizumab,"Céphalées,Nausées",Efficace
+72,20,H,Crohn colique,2,28-06-2009,Azathioprine,"Fièvre,Douleurs abdominales",Échec
+73,57,H,RCH extensive,18,03-04-2015,Azathioprine,,Efficace
+74,47,F,Crohn iléal,5,30-01-2021,Adalimumab,Infections,Efficace
+75,57,F,RCH extensive,1,24-11-2023,Mesalazine,,Efficace
+76,20,H,RCH extensive,2,06-06-2022,Mesalazine,,Échec
+77,80,H,Crohn iléal,12,12-02-2016,Infliximab,,Efficace
+78,66,H,Crohn iléo-colique,4,07-05-2021,Azathioprine,,Échec
+79,80,H,Crohn iléo-colique,11,29-01-2023,Infliximab,Nausées,Rechute
+80,80,F,RCH extensive,2,24-06-2018,Mesalazine,,Partiel
+81,50,H,Crohn colique,4,23-01-2015,Infliximab,,Efficace
+82,19,F,RCH distale,2,02-02-2006,Azathioprine,Fièvre,Partiel
+83,32,F,RCH extensive,11,16-01-2006,Adalimumab,Céphalées,Efficace
+84,18,F,RCH distale,1,26-06-2025,Ustekinumab,Nausées,Rechute
+85,18,H,RCH extensive,1,18-07-2023,Azathioprine,,Partiel
+86,78,H,RCH distale,9,26-08-2020,Infliximab,Infections,Partiel
+87,21,F,RCH distale,6,21-05-2023,Adalimumab,Réactions Cutanées,Efficace
+88,16,F,RCH distale,1,25-10-2010,Infliximab,,Rechute
+89,30,H,Crohn colique,6,25-01-2025,Azathioprine,,Échec
+90,53,F,RCH distale,1,17-03-2017,Infliximab,,Efficace
+91,55,F,Crohn iléo-colique,6,13-08-2024,Infliximab,,Efficace
+92,41,H,MICI indéterminée,4,04-10-2006,Ustekinumab,,Échec
+93,22,F,RCH distale,5,30-08-2009,Vedolizumab,,Efficace
+94,72,H,Crohn iléo-colique,9,10-06-2021,Infliximab,,Efficace
+95,32,F,RCH extensive,12,10-05-2018,Infliximab,,Efficace
+96,47,H,Crohn colique,1,11-11-2023,Infliximab,,Efficace
+97,32,F,Crohn iléo-colique,6,02-05-2022,Adalimumab,,Échec
+98,57,H,Crohn iléo-colique,3,17-04-2017,Adalimumab,"Fatigue,Céphalées",Efficace
+99,72,H,Crohn colique,8,09-07-2012,Infliximab,,Échec
+100,56,H,RCH distale,1,13-04-2025,Infliximab,Douleurs articulaires,Efficace
+101,67,F,RCH distale,3,20-07-2022,Azathioprine,Fièvre,Efficace
+102,21,H,Crohn colique,3,02-09-2021,Adalimumab,,Partiel
+103,22,H,Crohn iléo-colique,6,20-04-2024,Vedolizumab,,Efficace
+104,18,H,RCH extensive,2,02-07-2021,Azathioprine,Douleurs abdominales,Partiel
+105,21,H,Crohn iléo-colique,1,24-08-2016,Vedolizumab,,Partiel
+106,39,H,RCH extensive,1,06-02-2025,Vedolizumab,Infections,Partiel
+107,38,H,Crohn iléal,12,22-04-2009,Infliximab,"Céphalées,Nausées,Infections",Efficace
+108,65,H,RCH distale,2,28-08-2022,Mesalazine,,Efficace
+109,78,F,RCH distale,2,27-01-2023,Mesalazine,,Efficace
+110,15,H,Crohn iléo-colique,1,08-09-2022,Ustekinumab,,Efficace
+111,54,F,RCH distale,16,14-05-2020,Vedolizumab,Céphalées,Échec
+112,39,H,RCH distale,16,07-09-2024,Infliximab,,Efficace
+113,20,F,RCH distale,4,01-02-2023,Vedolizumab,,Efficace
+114,46,H,Crohn iléo-colique,2,14-01-2022,Ustekinumab,,Partiel
+115,18,F,RCH extensive,1,30-11-2021,Mesalazine,Diarrhée,Efficace
+116,75,F,Crohn iléal,5,12-07-2025,Infliximab,Céphalées,Efficace
+117,49,H,RCH extensive,4,08-12-2023,Azathioprine,Nausées,Partiel
+118,54,H,RCH distale,1,30-10-2007,Vedolizumab,Nausées,Partiel
+119,42,H,Crohn iléo-colique,2,15-07-2023,Vedolizumab,,Efficace
+120,49,H,RCH extensive,1,15-08-2024,Adalimumab,,Efficace
+121,58,H,RCH extensive,10,27-03-2023,Infliximab,,Rechute
+122,37,F,Crohn iléal,10,23-05-2007,Infliximab,,Efficace
+123,62,H,Crohn iléal,5,11-07-2012,Adalimumab,,Partiel
+124,25,H,RCH extensive,1,01-11-2007,Adalimumab,Réactions Cutanées,Efficace
+125,57,H,Crohn iléo-colique,1,01-12-2015,Infliximab,,Échec
+126,52,H,Crohn colique,5,28-05-2022,Infliximab,Fatigue,Efficace
+127,15,F,Crohn iléo-colique,1,14-06-2014,Adalimumab,,Efficace
+128,50,F,RCH distale,9,07-12-2005,Azathioprine,Infections,Efficace
+129,70,F,RCH distale,13,20-11-2020,Infliximab,,Partiel
+130,78,H,RCH extensive,14,02-10-2011,Ustekinumab,Nausées,Partiel
+131,78,F,Crohn iléal,11,28-04-2014,Adalimumab,,Efficace
+132,25,H,RCH distale,1,12-09-2022,Ustekinumab,Fatigue,Efficace
+133,17,H,RCH extensive,2,23-10-2005,Azathioprine,Infections,Efficace
+134,26,H,RCH distale,5,10-02-2024,Infliximab,Fatigue,Efficace
+135,15,H,RCH distale,1,31-01-2024,Infliximab,,Efficace
+136,68,H,Crohn colique,4,24-11-2022,Adalimumab,,Échec
+137,58,H,RCH extensive,13,24-08-2022,Adalimumab,"Fatigue,Infections,Réactions Cutanées",Partiel
+138,43,F,RCH distale,4,24-03-2015,Infliximab,,Efficace
+139,54,H,Crohn iléal,16,13-08-2023,Azathioprine,,Efficace
+140,66,H,RCH distale,5,07-02-2021,Ustekinumab,,Partiel
+141,33,F,Crohn colique,13,25-01-2025,Vedolizumab,"Nausées,Arthralgie,Fatigue",Efficace
+142,58,H,Crohn colique,17,29-10-2021,Adalimumab,,Efficace
+143,78,F,RCH distale,6,25-04-2006,Infliximab,,Échec
+144,41,H,MICI indéterminée,13,11-03-2024,Mesalazine,,Échec
+145,17,F,Crohn iléo-colique,2,26-05-2013,Infliximab,Douleurs articulaires,Efficace
+146,25,H,Crohn iléo-colique,7,17-07-2014,Adalimumab,,Efficace
+147,28,F,Crohn colique,2,27-01-2025,Adalimumab,,Efficace
+148,55,H,RCH extensive,19,20-02-2006,Infliximab,Céphalées,Partiel
+149,45,H,RCH distale,6,29-08-2016,Infliximab,,Partiel
+150,65,F,RCH distale,1,29-06-2025,Adalimumab,Infections,Échec
+151,54,H,Crohn iléo-colique,17,17-01-2025,Adalimumab,,Efficace
+152,25,F,Crohn iléo-colique,10,31-08-2005,Ustekinumab,,Partiel
+153,45,F,RCH extensive,8,23-07-2025,Azathioprine,Nausées,Efficace
+154,23,F,Crohn iléal,3,26-06-2013,Infliximab,,Efficace
+155,41,H,RCH extensive,4,27-06-2007,Vedolizumab,,Rechute
+156,50,F,Crohn iléo-colique,3,16-02-2025,Azathioprine,,Partiel
+157,58,F,Crohn iléal,12,15-05-2011,Ustekinumab,Fatigue,Partiel
+158,36,F,Crohn iléal,2,12-12-2021,Infliximab,,Partiel
+159,60,H,Crohn iléal,2,14-09-2020,Infliximab,,Partiel
+160,71,H,Crohn colique,3,08-09-2012,Adalimumab,Douleurs articulaires,Rechute
+161,34,F,RCH extensive,1,02-06-2013,Infliximab,Douleurs articulaires,Échec
+162,67,F,RCH extensive,2,30-06-2018,Infliximab,,Efficace
+163,18,H,RCH distale,1,02-03-2025,Adalimumab,"Réactions Cutanées,Infections,Douleurs articulaires",Efficace
+164,76,H,Crohn iléo-colique,7,18-11-2021,Ustekinumab,"Douleurs articulaires,Fatigue,Nausées",Partiel
+165,61,F,RCH distale,19,26-01-2022,Azathioprine,"Douleurs abdominales,Fatigue",Partiel
+166,58,H,Crohn iléo-colique,3,07-05-2022,Azathioprine,Nausées,Échec
+167,37,F,RCH extensive,1,11-04-2024,Mesalazine,,Partiel
+168,76,F,RCH extensive,5,01-08-2023,Infliximab,,Efficace
+169,28,H,Crohn iléo-colique,2,25-11-2014,Vedolizumab,Nausées,Partiel
+170,40,F,RCH distale,2,27-09-2023,Mesalazine,,Efficace
+171,22,H,Crohn iléo-colique,1,27-04-2008,Vedolizumab,,Efficace
+172,49,H,Crohn colique,4,17-08-2021,Infliximab,,Efficace
+173,48,H,Crohn colique,7,06-07-2021,Ustekinumab,,Efficace
+174,41,F,RCH extensive,9,10-07-2023,Vedolizumab,,Partiel
+175,59,F,Crohn iléo-colique,3,16-12-2024,Infliximab,,Efficace
+176,29,H,Crohn iléo-colique,3,15-01-2021,Adalimumab,,Efficace
+177,73,H,Crohn iléal,12,25-07-2020,Adalimumab,Céphalées,Partiel
+178,58,F,Crohn iléal,4,30-07-2017,Infliximab,Céphalées,Efficace
+179,49,H,Crohn iléal,2,17-11-2024,Adalimumab,Infections,Efficace
+180,47,F,Crohn iléo-colique,10,30-11-2023,Infliximab,,Échec
+181,50,H,Crohn colique,2,04-10-2021,Adalimumab,Réactions Cutanées,Efficace
+182,28,H,Crohn iléo-colique,1,30-07-2017,Vedolizumab,,Efficace
+183,62,F,Crohn iléal,13,10-07-2025,Infliximab,,Efficace
+184,28,H,Crohn colique,9,04-02-2021,Infliximab,,Efficace
+185,26,F,RCH distale,4,20-11-2021,Mesalazine,,Efficace
+186,27,F,Crohn iléal,6,19-06-2007,Vedolizumab,,Efficace
+187,34,H,RCH distale,1,20-12-2023,Adalimumab,,Partiel
+188,19,H,Crohn iléal,2,12-01-2022,Ustekinumab,,Efficace
+189,35,F,Crohn iléal,16,24-09-2023,Infliximab,Nausées,Efficace
+190,65,H,Crohn iléo-colique,1,21-06-2022,Ustekinumab,,Partiel
+191,24,H,RCH distale,1,08-05-2021,Azathioprine,,Efficace
+192,42,H,Crohn colique,2,14-03-2022,Adalimumab,Infections,Efficace
+193,64,F,Crohn iléal,5,19-06-2022,Adalimumab,,Rechute
+194,25,H,Crohn colique,3,08-06-2025,Ustekinumab,Nausées,Efficace
+195,75,F,Crohn colique,1,20-08-2011,Vedolizumab,Nausées,Partiel
+196,27,F,Crohn colique,5,08-07-2020,Infliximab,Nausées,Efficace
+197,73,H,MICI indéterminée,3,31-12-2015,Azathioprine,,Partiel
+198,17,H,RCH extensive,1,19-06-2021,Azathioprine,"Fièvre,Douleurs abdominales,Fatigue",Rechute
+199,19,F,RCH distale,2,24-07-2010,Mesalazine,,Partiel
+200,57,H,RCH distale,6,22-01-2009,Adalimumab,,Efficace
+201,36,H,RCH distale,10,12-06-2025,Azathioprine,,Efficace
+202,32,H,Crohn iléo-colique,3,11-05-2023,Ustekinumab,,Échec
+203,36,F,RCH distale,1,27-08-2023,Azathioprine,,Efficace
+204,28,F,Crohn colique,1,28-07-2025,Vedolizumab,,Partiel
+205,41,F,RCH extensive,13,12-03-2025,Infliximab,,Partiel
+206,18,H,RCH extensive,1,16-07-2021,Vedolizumab,"Céphalées,Arthralgie,Infections",Rechute
+207,43,H,Crohn colique,3,13-03-2023,Infliximab,,Efficace
+208,45,H,RCH distale,3,05-05-2025,Infliximab,,Efficace
+209,16,H,RCH distale,1,11-05-2023,Infliximab,,Partiel
+210,20,H,Crohn colique,5,24-04-2022,Azathioprine,,Partiel
+211,48,H,Crohn iléo-colique,2,19-11-2022,Adalimumab,,Efficace
+212,60,F,RCH distale,4,18-05-2022,Adalimumab,,Échec
+213,58,F,Crohn iléal,1,28-03-2023,Infliximab,Fatigue,Efficace
+214,50,F,Crohn colique,2,03-06-2025,Ustekinumab,,Efficace
+215,70,H,RCH distale,6,26-10-2022,Adalimumab,,Efficace
+216,54,F,RCH extensive,5,06-03-2023,Infliximab,,Échec
+217,43,F,Crohn colique,5,05-11-2009,Azathioprine,,Efficace
+218,51,F,Crohn iléal,3,11-05-2024,Vedolizumab,,Partiel
+219,20,F,RCH extensive,2,27-03-2025,Infliximab,,Efficace
+220,24,H,Crohn iléal,2,11-04-2015,Ustekinumab,"Infections,Nausées,Fatigue",Échec
+221,68,H,Crohn colique,1,27-05-2022,Infliximab,Céphalées,Efficace
+222,45,H,RCH distale,17,17-12-2023,Infliximab,"Infections,Fatigue",Partiel
+223,73,F,MICI indéterminée,7,20-09-2024,Adalimumab,,Partiel
+224,70,H,RCH distale,4,23-09-2017,Infliximab,,Échec
+225,21,H,Crohn iléo-colique,1,31-05-2015,Vedolizumab,Céphalées,Partiel
+226,42,H,Crohn colique,7,27-11-2017,Azathioprine,Douleurs abdominales,Partiel
+227,17,F,Crohn iléo-colique,1,29-05-2023,Adalimumab,,Efficace
+228,56,H,RCH extensive,1,05-12-2024,Mesalazine,,Efficace
+229,28,H,MICI indéterminée,4,20-11-2020,Azathioprine,,Partiel
+230,28,H,RCH distale,6,16-09-2022,Azathioprine,"Fatigue,Fièvre",Efficace
+231,46,H,Crohn iléo-colique,5,01-10-2021,Infliximab,,Efficace
+232,65,H,RCH extensive,1,19-10-2017,Azathioprine,,Partiel
+233,23,F,Crohn colique,4,20-10-2020,Ustekinumab,,Efficace
+234,28,H,Crohn iléal,4,24-02-2022,Infliximab,,Efficace
+235,25,F,RCH distale,3,20-09-2021,Adalimumab,,Efficace
+236,31,H,Crohn iléal,5,03-06-2023,Infliximab,Nausées,Partiel
+237,44,H,Crohn iléo-colique,5,30-07-2023,Adalimumab,"Douleurs articulaires,Infections",Partiel
+238,33,F,Crohn iléo-colique,3,30-06-2024,Ustekinumab,,Échec
+239,23,F,Crohn colique,3,18-05-2021,Adalimumab,,Partiel
+240,32,H,RCH distale,5,27-11-2021,Infliximab,,Efficace
+241,71,F,RCH distale,11,06-06-2007,Adalimumab,,Efficace
+242,17,F,MICI indéterminée,1,02-04-2021,Vedolizumab,"Fatigue,Infections",Efficace
+243,21,H,Crohn iléal,2,21-07-2024,Vedolizumab,,Efficace
+244,20,F,RCH distale,1,10-01-2021,Adalimumab,Douleurs articulaires,Efficace
+245,70,F,Crohn colique,5,03-09-2024,Ustekinumab,,Efficace
+246,20,F,Crohn colique,2,15-07-2013,Adalimumab,,Partiel
+247,68,F,Crohn iléal,4,13-09-2020,Ustekinumab,,Efficace
+248,29,H,RCH extensive,6,28-02-2024,Azathioprine,,Partiel
+249,53,H,RCH distale,5,27-04-2024,Mesalazine,,Efficace
+250,42,F,RCH distale,3,15-09-2016,Ustekinumab,Infections,Efficace
+251,25,F,Crohn iléo-colique,4,27-03-2021,Adalimumab,Réactions Cutanées,Efficace
+252,17,F,Crohn iléo-colique,1,23-11-2019,Vedolizumab,,Efficace
+253,59,H,Crohn colique,4,19-04-2024,Azathioprine,,Partiel
+254,41,F,Crohn iléal,5,16-10-2022,Infliximab,,Efficace
+255,52,F,Crohn iléo-colique,5,05-04-2025,Adalimumab,,Efficace
+256,45,H,RCH extensive,5,29-04-2022,Vedolizumab,,Échec
+257,53,F,Crohn iléo-colique,3,25-11-2017,Adalimumab,,Efficace
+258,38,F,Crohn iléal,1,16-06-2023,Adalimumab,Fatigue,Efficace
+259,61,F,Crohn iléo-colique,6,13-03-2023,Vedolizumab,,Partiel
+260,18,H,MICI indéterminée,1,18-02-2023,Azathioprine,,Efficace
+261,38,H,Crohn iléal,3,15-11-2023,Azathioprine,,Efficace
+262,42,H,RCH extensive,5,10-11-2019,Vedolizumab,Infections,Efficace
+263,42,F,RCH distale,4,26-03-2023,Azathioprine,Douleurs abdominales,Échec
+264,20,F,RCH extensive,5,06-07-2022,Mesalazine,,Partiel
+265,37,H,RCH extensive,2,27-11-2006,Infliximab,,Efficace
+266,48,F,RCH extensive,3,06-11-2009,Azathioprine,Douleurs abdominales,Efficace
+267,51,H,RCH extensive,2,20-05-2015,Azathioprine,Infections,Efficace
+268,20,H,RCH distale,1,13-03-2025,Infliximab,,Efficace
+269,20,F,RCH extensive,2,21-12-2021,Adalimumab,Céphalées,Échec
+270,30,F,RCH distale,6,06-10-2020,Azathioprine,,Échec
+271,25,F,Crohn iléal,6,06-09-2020,Adalimumab,,Partiel
+272,55,H,RCH distale,1,28-01-2021,Adalimumab,,Partiel
+273,63,F,MICI indéterminée,4,03-09-2024,Adalimumab,,Efficace
+274,29,H,Crohn iléo-colique,14,26-10-2022,Ustekinumab,,Partiel
+275,45,F,RCH distale,6,18-08-2024,Adalimumab,Infections,Efficace
+276,41,F,Crohn colique,1,06-06-2025,Ustekinumab,,Partiel
+277,20,H,Crohn colique,2,20-01-2021,Adalimumab,"Fatigue,Infections,Réactions Cutanées",Partiel
+278,62,H,Crohn iléal,6,22-01-2023,Azathioprine,,Partiel
+279,45,H,Crohn iléal,3,19-10-2019,Azathioprine,Fièvre,Partiel
+280,73,F,RCH distale,14,06-09-2023,Adalimumab,,Partiel
+281,38,F,Crohn iléo-colique,6,15-04-2023,Adalimumab,,Échec
+282,15,F,Crohn colique,1,01-04-2022,Azathioprine,,Partiel
+283,70,H,Crohn colique,6,13-03-2021,Adalimumab,Douleurs articulaires,Partiel
+284,21,H,RCH extensive,2,06-12-2020,Azathioprine,Fièvre,Efficace
+285,56,H,Crohn colique,6,16-02-2024,Azathioprine,Fièvre,Partiel
+286,52,H,MICI indéterminée,3,22-03-2021,Vedolizumab,"Fatigue,Infections,Nausées",Partiel
+287,17,F,RCH distale,1,01-02-2025,Vedolizumab,Fatigue,Efficace
+288,30,H,RCH distale,4,04-07-2023,Adalimumab,Infections,Rechute
+289,55,F,RCH distale,8,06-09-2014,Vedolizumab,,Efficace
+290,40,H,RCH extensive,13,19-09-2024,Vedolizumab,,Rechute
+291,47,H,Crohn iléal,13,18-04-2018,Azathioprine,"Nausées,Douleurs abdominales",Partiel
+292,70,F,RCH extensive,18,30-07-2023,Vedolizumab,"Infections,Céphalées,Fatigue",Efficace
+293,68,F,Crohn iléo-colique,5,06-03-2022,Adalimumab,,Efficace
+294,53,H,Crohn iléo-colique,8,25-02-2020,Adalimumab,,Efficace
+295,57,F,RCH distale,3,27-08-2009,Infliximab,,Efficace
+296,29,H,Crohn iléo-colique,2,27-01-2024,Azathioprine,"Douleurs abdominales,Infections,Nausées",Échec
+297,52,H,RCH extensive,20,08-06-2023,Mesalazine,,Efficace
+298,28,F,Crohn colique,4,20-04-2022,Azathioprine,,Efficace
+299,51,F,RCH distale,14,16-08-2007,Vedolizumab,,Partiel
+300,23,H,RCH extensive,2,18-03-2018,Adalimumab,,Efficace
+301,31,F,Crohn iléal,6,17-07-2025,Vedolizumab,,Partiel
+302,32,H,Crohn iléal,2,31-12-2023,Infliximab,,Rechute
+303,22,H,RCH extensive,3,06-12-2012,Infliximab,,Partiel
+304,52,H,RCH distale,5,19-09-2015,Infliximab,"Fatigue,Infections,Céphalées",Partiel
+305,29,H,RCH extensive,6,25-06-2021,Mesalazine,,Partiel
+306,56,H,RCH distale,2,05-05-2007,Infliximab,Réactions Cutanées,Efficace
+307,48,H,RCH extensive,3,22-10-2021,Adalimumab,Douleurs articulaires,Efficace
+308,17,F,RCH distale,1,27-06-2023,Adalimumab,Infections,Efficace
+309,77,F,Crohn iléal,5,22-02-2023,Ustekinumab,Fatigue,Échec
+310,48,F,Crohn iléal,1,02-04-2022,Ustekinumab,,Échec
+311,71,H,RCH extensive,12,11-06-2019,Infliximab,"Réactions Cutanées,Douleurs articulaires",Partiel
+312,29,F,Crohn iléo-colique,3,29-06-2020,Infliximab,Infections,Efficace
+313,72,H,Crohn colique,13,25-07-2021,Vedolizumab,,Efficace
+314,37,H,RCH distale,5,17-11-2021,Azathioprine,,Efficace
+315,17,H,RCH distale,2,07-12-2022,Infliximab,,Efficace
+316,74,F,Crohn iléo-colique,4,12-08-2021,Vedolizumab,,Efficace
+317,21,H,RCH extensive,5,12-02-2023,Infliximab,Réactions Cutanées,Partiel
+318,24,F,Crohn iléal,6,16-12-2020,Azathioprine,Fièvre,Partiel
+319,78,H,Crohn iléo-colique,3,28-04-2022,Azathioprine,,Échec
+320,16,H,RCH extensive,1,26-06-2022,Vedolizumab,"Céphalées,Arthralgie,Nausées",Partiel
+321,80,F,Crohn colique,1,21-04-2024,Adalimumab,Réactions Cutanées,Partiel
+322,76,F,Crohn iléo-colique,1,27-02-2021,Infliximab,"Douleurs articulaires,Infections,Fatigue",Partiel
+323,69,H,Crohn iléal,6,07-08-2022,Azathioprine,"Fièvre,Nausées,Fatigue",Échec
+324,61,F,RCH distale,2,02-09-2024,Mesalazine,,Efficace
+325,16,F,Crohn iléal,1,27-02-2008,Azathioprine,"Douleurs abdominales,Nausées",Efficace
+326,58,F,RCH extensive,17,03-03-2008,Adalimumab,Infections,Efficace
+327,42,F,Crohn iléo-colique,2,24-07-2025,Adalimumab,Fatigue,Efficace
+328,55,F,RCH distale,3,31-05-2015,Infliximab,,Rechute
+329,25,F,RCH distale,5,01-08-2022,Infliximab,,Efficace
+330,17,F,RCH extensive,2,14-07-2023,Ustekinumab,,Efficace
+331,20,F,Crohn iléal,2,18-05-2025,Vedolizumab,,Efficace
+332,47,H,Crohn iléal,5,04-09-2017,Adalimumab,Infections,Échec
+333,60,H,Crohn iléal,18,10-01-2023,Adalimumab,,Efficace
+334,27,F,Crohn iléal,2,13-12-2020,Infliximab,Réactions Cutanées,Rechute
+335,38,H,Crohn iléal,4,28-07-2021,Vedolizumab,,Efficace
+336,17,H,RCH distale,1,28-07-2021,Adalimumab,Douleurs articulaires,Efficace
+337,65,H,RCH distale,5,18-02-2023,Azathioprine,,Échec
+338,70,F,RCH distale,2,04-08-2015,Infliximab,Réactions Cutanées,Efficace
+339,53,F,Crohn iléo-colique,2,19-01-2025,Infliximab,Fatigue,Échec
+340,72,F,Crohn iléo-colique,12,06-04-2024,Infliximab,,Partiel
+341,31,F,RCH distale,7,03-01-2021,Infliximab,Fatigue,Efficace
+342,20,F,Crohn iléal,3,05-02-2021,Adalimumab,,Efficace
+343,45,H,RCH distale,4,23-04-2025,Vedolizumab,,Efficace
+344,30,F,Crohn iléo-colique,6,02-01-2006,Ustekinumab,,Efficace
+345,50,F,Crohn iléo-colique,20,23-01-2024,Ustekinumab,Douleurs articulaires,Échec
+346,68,H,Crohn iléal,8,26-01-2016,Azathioprine,,Partiel
+347,40,F,Crohn iléal,14,21-03-2022,Adalimumab,,Efficace
+348,16,H,RCH distale,1,11-02-2022,Infliximab,Céphalées,Échec
+349,38,F,Crohn iléal,2,15-12-2024,Adalimumab,Douleurs articulaires,Efficace
+350,45,H,Crohn colique,5,30-04-2015,Azathioprine,,Efficace
+351,73,F,Crohn iléal,2,26-04-2025,Ustekinumab,,Efficace
+352,19,F,Crohn iléo-colique,1,03-04-2007,Infliximab,Fatigue,Efficace
+353,38,H,RCH distale,5,29-12-2020,Mesalazine,,Partiel
+354,68,F,Crohn iléal,5,20-01-2023,Vedolizumab,,Échec
+355,41,H,RCH distale,4,20-04-2015,Azathioprine,,Efficace
+356,48,H,RCH distale,1,20-07-2022,Infliximab,,Rechute
+357,23,F,Crohn iléo-colique,1,03-07-2025,Vedolizumab,,Efficace
+358,55,H,Crohn iléal,1,20-11-2024,Azathioprine,,Partiel
+359,16,F,Crohn iléal,1,25-09-2021,Vedolizumab,,Efficace
+360,32,F,Crohn iléal,3,30-05-2021,Adalimumab,,Efficace
+361,17,H,Crohn colique,1,28-03-2008,Infliximab,Nausées,Efficace
+362,39,H,RCH extensive,1,16-04-2022,Adalimumab,"Céphalées,Fatigue,Infections",Efficace
+363,58,H,RCH extensive,1,09-07-2015,Mesalazine,,Échec
+364,46,F,RCH extensive,20,11-11-2024,Infliximab,,Partiel
+365,26,H,Crohn colique,5,14-11-2021,Vedolizumab,"Céphalées,Arthralgie",Efficace
+366,28,H,Crohn iléo-colique,2,27-09-2021,Infliximab,Céphalées,Partiel
+367,31,H,Crohn colique,6,15-10-2021,Adalimumab,,Efficace
+368,18,H,Crohn iléo-colique,1,17-05-2023,Adalimumab,,Partiel
+369,61,H,Crohn colique,3,10-07-2023,Vedolizumab,Fatigue,Efficace
+370,55,H,Crohn iléo-colique,2,30-08-2024,Adalimumab,,Partiel
+371,15,H,Crohn iléo-colique,1,08-01-2025,Infliximab,Céphalées,Efficace
+372,61,H,RCH extensive,12,05-06-2018,Infliximab,,Efficace
+373,22,H,RCH distale,3,24-05-2021,Vedolizumab,,Partiel
+374,30,H,RCH distale,2,11-02-2006,Azathioprine,,Échec
+375,25,H,RCH distale,10,09-10-2023,Infliximab,Céphalées,Efficace
+376,20,H,RCH extensive,1,07-04-2022,Adalimumab,,Partiel
+377,76,F,Crohn iléo-colique,2,29-05-2021,Adalimumab,Réactions Cutanées,Efficace
+378,42,H,Crohn iléal,1,10-12-2023,Ustekinumab,Nausées,Efficace
+379,56,F,RCH extensive,2,01-01-2015,Infliximab,,Partiel
+380,43,H,RCH distale,2,23-03-2023,Mesalazine,,Efficace
+381,18,F,Crohn colique,2,23-04-2022,Infliximab,Douleurs articulaires,Échec
+382,28,H,RCH distale,3,02-03-2021,Vedolizumab,"Céphalées,Arthralgie",Échec
+383,41,H,Crohn iléo-colique,2,10-03-2020,Adalimumab,,Efficace
+384,28,F,Crohn iléal,1,08-09-2023,Ustekinumab,,Partiel
+385,49,H,Crohn iléal,1,21-06-2010,Adalimumab,Fatigue,Efficace
+386,26,H,Crohn iléo-colique,1,21-01-2009,Vedolizumab,,Efficace
+387,16,F,Crohn iléo-colique,1,11-02-2024,Azathioprine,,Efficace
+388,21,H,RCH extensive,2,30-08-2024,Infliximab,,Efficace
+389,62,F,Crohn colique,2,29-10-2020,Vedolizumab,,Efficace
+390,61,F,RCH extensive,14,16-12-2010,Mesalazine,Douleurs abdominales,Efficace
+391,39,H,RCH distale,6,15-12-2019,Adalimumab,,Rechute
+392,18,F,Crohn colique,1,22-08-2022,Ustekinumab,,Efficace
+393,53,H,RCH distale,7,26-04-2018,Vedolizumab,Céphalées,Partiel
+394,50,F,Crohn iléal,16,05-11-2024,Vedolizumab,,Rechute
+395,29,F,Crohn colique,13,01-05-2023,Infliximab,Réactions Cutanées,Efficace
+396,29,H,Crohn colique,1,21-11-2022,Ustekinumab,,Échec
+397,23,F,RCH distale,6,05-10-2018,Infliximab,,Efficace
+398,51,F,Crohn colique,15,16-10-2021,Infliximab,,Efficace
+399,15,H,Crohn colique,1,07-02-2022,Azathioprine,Fièvre,Échec
+400,52,H,RCH distale,17,08-06-2021,Mesalazine,,Efficace
+401,24,F,MICI indéterminée,2,20-05-2025,Azathioprine,Douleurs abdominales,Efficace
+402,16,F,Crohn iléo-colique,1,01-04-2021,Ustekinumab,,Partiel
+403,16,F,Crohn iléo-colique,1,05-01-2024,Infliximab,,Partiel
+404,22,H,Crohn iléal,5,02-03-2023,Azathioprine,,Partiel
+405,63,H,RCH distale,12,29-08-2016,Vedolizumab,,Partiel
+406,71,H,Crohn iléo-colique,6,24-10-2023,Infliximab,Infections,Efficace
+407,59,F,Crohn iléo-colique,13,01-05-2021,Ustekinumab,,Partiel
+408,37,H,RCH extensive,3,04-11-2022,Mesalazine,,Efficace
+409,45,F,RCH distale,6,23-06-2024,Azathioprine,Infections,Partiel
+410,28,H,RCH distale,10,13-02-2022,Vedolizumab,,Efficace
+411,24,H,RCH distale,4,12-10-2015,Vedolizumab,,Efficace
+412,18,H,Crohn colique,1,17-01-2014,Adalimumab,"Fatigue,Céphalées",Échec
+413,74,F,Crohn iléo-colique,10,23-12-2022,Infliximab,"Infections,Fatigue",Échec
+414,39,H,Crohn iléo-colique,15,22-11-2023,Vedolizumab,Céphalées,Partiel
+415,36,H,RCH distale,2,18-12-2011,Ustekinumab,"Fatigue,Douleurs articulaires",Échec
+416,22,H,Crohn iléal,4,18-12-2024,Vedolizumab,,Efficace
+417,62,F,RCH distale,6,25-08-2021,Azathioprine,"Fatigue,Douleurs abdominales",Échec
+418,47,H,RCH distale,6,09-06-2022,Adalimumab,Céphalées,Efficace
+419,59,F,Crohn colique,14,25-02-2022,Vedolizumab,,Échec
+420,34,H,Crohn iléo-colique,1,22-03-2024,Azathioprine,Fatigue,Partiel
+421,28,F,RCH extensive,2,15-07-2017,Mesalazine,,Efficace
+422,21,F,RCH distale,2,30-05-2025,Azathioprine,,Efficace
+423,40,H,Crohn iléal,1,10-01-2022,Adalimumab,,Efficace
+424,35,F,RCH distale,5,18-09-2022,Mesalazine,,Partiel
+425,47,F,Crohn iléo-colique,6,07-08-2024,Azathioprine,Fatigue,Partiel
+426,20,H,Crohn iléo-colique,1,11-04-2008,Ustekinumab,,Efficace
+427,65,H,RCH distale,11,10-10-2021,Vedolizumab,,Partiel
+428,29,F,Crohn colique,3,16-05-2013,Azathioprine,,Échec
+429,73,F,Crohn colique,4,10-08-2021,Ustekinumab,Infections,Échec
+430,51,H,MICI indéterminée,16,29-05-2022,Adalimumab,,Efficace
+431,44,H,Crohn iléo-colique,2,30-03-2015,Adalimumab,,Rechute
+432,35,H,Crohn iléal,15,16-02-2024,Azathioprine,Douleurs abdominales,Partiel
+433,28,F,MICI indéterminée,3,10-03-2022,Infliximab,,Efficace
+434,44,H,Crohn colique,4,27-05-2016,Azathioprine,,Partiel
+435,15,F,RCH extensive,1,11-04-2025,Adalimumab,Céphalées,Efficace
+436,62,F,Crohn iléal,14,14-11-2024,Azathioprine,"Fatigue,Douleurs abdominales",Efficace
+437,21,F,Crohn iléo-colique,3,30-06-2022,Adalimumab,Douleurs articulaires,Rechute
+438,22,H,RCH extensive,1,22-10-2005,Adalimumab,,Efficace
+439,29,H,Crohn iléo-colique,5,30-10-2021,Vedolizumab,"Nausées,Arthralgie",Efficace
+440,54,F,Crohn colique,4,24-08-2023,Adalimumab,,Efficace
+441,69,H,Crohn iléo-colique,9,15-04-2010,Adalimumab,Céphalées,Rechute
+442,80,H,Crohn iléo-colique,17,31-03-2024,Azathioprine,,Partiel
+443,42,H,Crohn iléo-colique,1,27-09-2024,Adalimumab,,Échec
+444,27,H,Crohn iléal,3,29-07-2021,Azathioprine,,Efficace
+445,42,H,MICI indéterminée,8,07-12-2023,Azathioprine,Fatigue,Partiel
+446,45,H,Crohn colique,15,02-11-2024,Adalimumab,,Efficace
+447,45,F,Crohn iléal,1,11-05-2022,Adalimumab,,Rechute
+448,80,F,RCH extensive,17,05-07-2021,Infliximab,,Échec
+449,15,H,Crohn iléal,1,09-11-2023,Azathioprine,"Fièvre,Infections",Efficace
+450,79,F,Crohn colique,2,15-08-2005,Infliximab,,Efficace
+451,46,F,Crohn iléal,9,19-11-2021,Ustekinumab,,Partiel
+452,78,F,Crohn iléo-colique,19,06-05-2023,Vedolizumab,Céphalées,Partiel
+453,39,F,Crohn iléo-colique,8,03-01-2015,Infliximab,"Céphalées,Douleurs articulaires",Efficace
+454,22,F,Crohn colique,2,13-08-2024,Adalimumab,Céphalées,Efficace
+455,22,F,Crohn iléo-colique,3,05-10-2013,Adalimumab,,Échec
+456,74,F,Crohn iléal,4,25-06-2023,Vedolizumab,,Échec
+457,23,F,RCH distale,1,19-02-2024,Infliximab,,Efficace
+458,22,F,Crohn iléal,1,30-09-2006,Adalimumab,,Efficace
+459,31,F,Crohn colique,6,04-07-2025,Adalimumab,Infections,Efficace
+460,23,H,RCH distale,3,29-08-2023,Infliximab,Céphalées,Échec
+461,51,F,Crohn iléal,6,08-11-2020,Ustekinumab,,Efficace
+462,20,H,RCH extensive,2,05-07-2024,Adalimumab,,Partiel
+463,50,H,Crohn iléal,5,29-08-2005,Adalimumab,,Efficace
+464,18,H,Crohn iléal,2,30-03-2021,Mesalazine,,Efficace
+465,41,H,Crohn iléal,3,31-10-2024,Vedolizumab,Infections,Efficace
+466,31,F,RCH extensive,5,25-11-2016,Infliximab,,Partiel
+467,68,F,Crohn iléal,6,30-03-2024,Infliximab,,Efficace
+468,16,F,Crohn colique,1,11-01-2024,Ustekinumab,Fatigue,Partiel
+469,21,H,MICI indéterminée,2,23-08-2022,Mesalazine,,Partiel
+470,48,F,Crohn colique,4,08-03-2011,Vedolizumab,,Efficace
+471,33,H,RCH extensive,2,27-06-2023,Vedolizumab,Céphalées,Efficace
+472,28,F,RCH distale,10,01-05-2021,Mesalazine,,Efficace
+473,24,F,Crohn colique,2,04-05-2021,Adalimumab,,Échec
+474,58,F,RCH distale,5,03-02-2016,Azathioprine,Infections,Efficace
+475,26,F,Crohn iléo-colique,7,07-10-2013,Adalimumab,Douleurs articulaires,Partiel
+476,40,H,Crohn iléal,5,15-05-2019,Infliximab,Nausées,Partiel
+477,26,H,RCH distale,1,20-11-2020,Mesalazine,"Diarrhée,Éruptions cutanées",Partiel
+478,22,H,Crohn colique,3,09-05-2023,Ustekinumab,Infections,Échec
+479,44,H,RCH distale,4,26-03-2024,Azathioprine,,Efficace
+480,62,F,RCH distale,8,19-01-2024,Azathioprine,,Partiel
+481,74,F,Crohn iléo-colique,4,07-12-2020,Vedolizumab,,Efficace
+482,52,H,RCH extensive,1,11-03-2025,Adalimumab,,Partiel
+483,27,H,Crohn iléo-colique,6,17-01-2021,Infliximab,,Efficace
+484,21,F,RCH distale,1,29-09-2009,Ustekinumab,,Efficace
+485,65,F,Crohn iléal,3,06-09-2022,Infliximab,"Réactions Cutanées,Céphalées,Infections",Efficace
+486,60,F,RCH distale,15,21-10-2006,Azathioprine,,Partiel
+487,68,F,Crohn iléo-colique,18,04-05-2022,Azathioprine,,Efficace
+488,32,F,Crohn iléal,2,03-05-2022,Adalimumab,Douleurs articulaires,Efficace
+489,16,H,RCH distale,1,02-03-2021,Vedolizumab,,Efficace
+490,19,F,Crohn iléal,1,04-04-2022,Mesalazine,,Partiel
+491,27,F,RCH extensive,4,16-02-2024,Infliximab,Douleurs articulaires,Efficace
+492,54,H,RCH extensive,4,30-05-2013,Vedolizumab,,Efficace
+493,61,H,Crohn colique,1,08-10-2021,Adalimumab,,Partiel
+494,32,H,RCH distale,8,27-05-2022,Infliximab,Réactions Cutanées,Efficace
+495,59,F,RCH distale,17,21-02-2017,Ustekinumab,,Efficace
+496,46,F,MICI indéterminée,6,24-07-2014,Adalimumab,Céphalées,Efficace
+497,42,F,Crohn iléal,10,07-06-2025,Azathioprine,,Efficace
+498,53,F,Crohn colique,6,27-02-2023,Adalimumab,,Efficace
+499,70,H,Crohn iléal,7,12-02-2014,Azathioprine,,Échec
+500,30,H,RCH distale,13,09-03-2008,Adalimumab,Céphalées,Efficace
+501,43,H,Crohn iléal,6,24-08-2010,Adalimumab,,Efficace
+502,77,F,RCH extensive,4,02-07-2020,Vedolizumab,,Échec
+503,76,H,Crohn iléo-colique,9,10-01-2023,Ustekinumab,,Efficace
+504,40,H,RCH extensive,10,13-02-2021,Vedolizumab,,Échec
+505,16,H,RCH distale,1,06-01-2019,Infliximab,,Efficace
+506,67,H,Crohn iléal,3,19-03-2025,Ustekinumab,,Efficace
+507,19,H,Crohn colique,3,21-04-2006,Infliximab,,Efficace
+508,50,H,Crohn iléal,2,25-04-2006,Adalimumab,,Échec
+509,28,H,Crohn iléo-colique,4,24-12-2020,Infliximab,Douleurs articulaires,Efficace
+510,34,H,Crohn iléo-colique,10,13-08-2022,Infliximab,Fatigue,Efficace
+511,67,F,Crohn iléo-colique,5,12-06-2025,Infliximab,Céphalées,Efficace
+512,55,F,RCH extensive,6,22-02-2025,Infliximab,,Partiel
+513,20,H,Crohn colique,1,12-05-2024,Azathioprine,,Efficace
+514,57,H,Crohn iléo-colique,1,06-06-2023,Infliximab,,Échec
+515,52,H,Crohn colique,5,15-12-2009,Adalimumab,Fatigue,Partiel
+516,16,H,Crohn iléo-colique,1,29-08-2022,Infliximab,,Efficace
+517,23,H,RCH extensive,4,28-07-2022,Infliximab,"Infections,Céphalées,Réactions Cutanées",Efficace
+518,18,F,Crohn iléo-colique,1,24-09-2023,Vedolizumab,Nausées,Efficace
+519,16,F,MICI indéterminée,1,26-04-2021,Azathioprine,Douleurs abdominales,Partiel
+520,36,H,Crohn colique,3,07-05-2019,Adalimumab,"Douleurs articulaires,Céphalées",Rechute
+521,30,H,RCH extensive,14,28-08-2014,Infliximab,,Partiel
+522,73,H,RCH distale,3,08-12-2023,Azathioprine,Nausées,Efficace
+523,42,H,Crohn iléo-colique,3,08-10-2024,Infliximab,Douleurs articulaires,Échec
+524,60,H,MICI indéterminée,8,09-05-2019,Azathioprine,,Efficace
+525,16,H,MICI indéterminée,1,24-12-2021,Infliximab,,Efficace
+526,27,F,RCH extensive,10,08-11-2013,Mesalazine,,Efficace
+527,29,H,Crohn iléo-colique,4,14-11-2016,Azathioprine,"Infections,Fièvre",Échec
+528,62,F,Crohn iléo-colique,3,16-12-2020,Ustekinumab,Céphalées,Efficace
+529,20,F,Crohn iléal,1,23-11-2024,Vedolizumab,,Partiel
+530,28,F,RCH distale,12,11-05-2024,Vedolizumab,Fatigue,Partiel
+531,76,H,Crohn iléal,20,08-01-2023,Ustekinumab,,Échec
+532,29,H,Crohn colique,6,22-05-2006,Infliximab,,Efficace
+533,28,F,MICI indéterminée,3,05-04-2022,Infliximab,"Fatigue,Infections",Échec
+534,36,F,Crohn colique,5,20-06-2013,Adalimumab,Douleurs articulaires,Efficace
+535,48,F,RCH extensive,2,27-07-2012,Mesalazine,"Douleurs abdominales,Céphalées",Partiel
+536,51,H,Crohn iléal,1,18-01-2022,Adalimumab,Douleurs articulaires,Efficace
+537,15,F,Crohn iléo-colique,1,08-01-2013,Vedolizumab,,Partiel
+538,45,H,Crohn iléo-colique,6,12-09-2023,Vedolizumab,,Efficace
+539,27,H,RCH extensive,6,07-10-2013,Mesalazine,"Éruptions cutanées,Diarrhée",Efficace
+540,52,H,Crohn iléo-colique,13,23-03-2025,Infliximab,"Réactions Cutanées,Infections",Partiel
+541,21,F,Crohn iléo-colique,2,06-04-2007,Adalimumab,,Partiel
+542,59,H,RCH extensive,1,26-01-2024,Infliximab,,Efficace
+543,67,H,Crohn iléo-colique,4,01-03-2022,Infliximab,,Efficace
+544,63,F,RCH distale,4,12-04-2024,Infliximab,,Efficace
+545,16,H,Crohn iléo-colique,1,20-11-2007,Infliximab,,Efficace
+546,22,H,RCH extensive,5,04-03-2016,Mesalazine,Douleurs abdominales,Échec
+547,35,H,Crohn iléal,9,18-08-2023,Infliximab,,Efficace
+548,16,F,Crohn iléal,1,31-01-2023,Adalimumab,,Partiel
+549,21,H,Crohn colique,2,02-09-2012,Infliximab,,Efficace
+550,70,F,MICI indéterminée,14,05-04-2013,Vedolizumab,,Efficace
+551,44,F,RCH extensive,13,18-09-2020,Infliximab,,Efficace
+552,26,F,RCH extensive,5,16-07-2024,Adalimumab,Fatigue,Partiel
+553,27,H,Crohn iléal,8,20-01-2021,Infliximab,,Efficace
+554,65,F,Crohn iléal,3,04-11-2011,Adalimumab,Infections,Partiel
+555,16,F,RCH distale,1,08-09-2023,Infliximab,,Partiel
+556,35,F,Crohn iléal,17,20-05-2022,Vedolizumab,"Arthralgie,Nausées",Partiel
+557,53,H,Crohn iléo-colique,2,20-12-2005,Adalimumab,,Échec
+558,70,F,Crohn iléo-colique,3,10-02-2008,Adalimumab,,Partiel
+559,28,F,RCH extensive,2,29-11-2022,Mesalazine,,Efficace
+560,49,F,RCH distale,4,06-03-2023,Infliximab,,Efficace
+561,24,F,RCH distale,6,06-04-2023,Azathioprine,,Efficace
+562,26,H,Crohn colique,2,17-06-2024,Vedolizumab,Fatigue,Partiel
+563,49,F,RCH extensive,5,03-10-2012,Mesalazine,,Efficace
+564,45,H,Crohn colique,9,02-08-2022,Vedolizumab,Céphalées,Efficace
+565,49,F,Crohn iléo-colique,4,29-07-2021,Infliximab,,Échec
+566,18,F,Crohn iléo-colique,1,02-07-2011,Infliximab,Céphalées,Efficace
+567,24,F,Crohn iléal,1,24-09-2019,Infliximab,,Échec
+568,19,H,RCH extensive,2,18-09-2006,Infliximab,Réactions Cutanées,Efficace
+569,51,H,RCH distale,5,28-06-2025,Vedolizumab,,Efficace
+570,23,H,Crohn iléo-colique,1,05-06-2021,Adalimumab,,Partiel
+571,68,H,RCH distale,2,23-06-2010,Adalimumab,Fatigue,Partiel
+572,33,H,Crohn iléo-colique,2,30-03-2019,Vedolizumab,,Échec
+573,45,H,Crohn iléo-colique,1,09-12-2021,Vedolizumab,,Échec
+574,23,H,MICI indéterminée,7,30-01-2022,Vedolizumab,,Efficace
+575,61,H,RCH extensive,2,12-06-2006,Azathioprine,Douleurs abdominales,Efficace
+576,26,F,Crohn colique,2,22-08-2005,Ustekinumab,"Fatigue,Douleurs articulaires,Céphalées",Efficace
+577,72,F,MICI indéterminée,8,30-05-2022,Adalimumab,Douleurs articulaires,Efficace
+578,69,H,Crohn iléo-colique,1,21-09-2022,Ustekinumab,,Efficace
+579,80,F,RCH distale,3,18-01-2021,Infliximab,,Efficace
+580,49,H,RCH distale,19,25-08-2021,Mesalazine,,Efficace
+581,22,F,Crohn iléal,6,13-08-2013,Adalimumab,Réactions Cutanées,Efficace
+582,17,H,RCH distale,2,12-09-2020,Adalimumab,,Efficace
+583,53,H,Crohn colique,5,18-12-2022,Infliximab,Fatigue,Efficace
+584,25,H,RCH extensive,3,12-03-2024,Vedolizumab,,Échec
+585,46,H,RCH distale,2,22-07-2017,Infliximab,,Efficace
+586,23,H,RCH distale,1,09-02-2021,Azathioprine,Fièvre,Efficace
+587,15,H,Crohn iléo-colique,1,15-07-2023,Infliximab,,Échec
+588,48,H,RCH extensive,18,23-12-2020,Infliximab,Réactions Cutanées,Efficace
+589,18,F,Crohn iléal,2,12-06-2022,Ustekinumab,,Efficace
+590,23,F,Crohn colique,3,29-11-2022,Vedolizumab,,Efficace
+591,20,F,Crohn iléo-colique,2,26-03-2025,Ustekinumab,"Nausées,Fatigue",Échec
+592,35,H,Crohn iléo-colique,5,20-05-2025,Infliximab,Réactions Cutanées,Efficace
+593,25,F,Crohn colique,8,01-03-2022,Adalimumab,,Efficace
+594,47,H,Crohn iléal,3,10-06-2022,Infliximab,,Efficace
+595,53,H,Crohn iléal,4,18-01-2025,Azathioprine,Douleurs abdominales,Efficace
+596,43,F,MICI indéterminée,9,27-06-2023,Infliximab,Céphalées,Efficace
+597,73,F,Crohn iléo-colique,5,04-01-2021,Azathioprine,,Échec
+598,20,H,RCH extensive,1,01-10-2021,Mesalazine,,Rechute
+599,38,F,Crohn iléo-colique,3,27-08-2022,Vedolizumab,,Échec
+600,23,H,RCH distale,6,16-03-2021,Mesalazine,,Efficace
+601,31,H,Crohn iléo-colique,1,10-09-2024,Adalimumab,,Efficace
+602,68,F,RCH distale,4,12-09-2024,Adalimumab,Fatigue,Partiel
+603,69,H,Crohn iléal,4,13-03-2022,Azathioprine,,Efficace
+604,29,H,RCH extensive,3,28-06-2022,Adalimumab,Fatigue,Échec
+605,66,H,Crohn iléo-colique,6,01-08-2021,Infliximab,,Efficace
+606,67,F,Crohn iléo-colique,2,14-11-2015,Vedolizumab,"Arthralgie,Fatigue",Efficace
+607,77,F,Crohn iléal,18,30-04-2024,Infliximab,"Céphalées,Infections",Efficace
+608,41,F,Crohn iléal,2,13-02-2021,Azathioprine,,Efficace
+609,57,F,RCH distale,8,21-08-2023,Infliximab,,Partiel
+610,57,H,Crohn iléo-colique,4,09-03-2011,Azathioprine,,Échec
+611,40,F,Crohn iléal,4,01-12-2023,Adalimumab,"Infections,Fatigue,Douleurs articulaires",Échec
+612,19,H,Crohn iléal,4,07-10-2023,Infliximab,,Efficace
+613,41,H,Crohn iléo-colique,1,11-09-2020,Ustekinumab,,Efficace
+614,36,F,Crohn iléal,6,17-05-2023,Adalimumab,,Échec
+615,19,H,RCH extensive,1,05-03-2010,Infliximab,Infections,Partiel
+616,75,F,Crohn colique,13,18-08-2024,Adalimumab,,Partiel
+617,45,F,Crohn iléal,3,01-04-2021,Azathioprine,Nausées,Partiel
+618,50,F,Crohn iléal,5,09-01-2024,Vedolizumab,,Efficace
+619,21,H,Crohn iléo-colique,3,20-04-2022,Ustekinumab,,Échec
+620,40,F,RCH distale,4,14-07-2016,Infliximab,,Efficace
+621,44,H,Crohn iléo-colique,5,19-02-2023,Infliximab,"Nausées,Réactions Cutanées",Efficace
+622,55,F,Crohn iléo-colique,3,10-03-2010,Adalimumab,,Partiel
+623,65,H,MICI indéterminée,8,25-08-2005,Azathioprine,,Échec
+624,55,F,Crohn iléal,6,12-11-2020,Vedolizumab,,Efficace
+625,46,H,Crohn colique,14,29-03-2025,Adalimumab,Fatigue,Échec
+626,51,F,Crohn colique,8,02-11-2005,Infliximab,,Efficace
+627,41,F,Crohn colique,6,07-12-2022,Azathioprine,Fatigue,Partiel
+628,19,H,RCH extensive,1,09-02-2023,Adalimumab,Fatigue,Efficace
+629,35,F,Crohn iléo-colique,3,24-12-2018,Adalimumab,,Efficace
+630,24,F,Crohn iléo-colique,3,31-01-2015,Azathioprine,,Partiel
+631,19,F,Crohn colique,2,06-09-2022,Infliximab,Infections,Partiel
+632,26,F,Crohn iléo-colique,6,14-07-2022,Adalimumab,,Efficace
+633,71,F,Crohn colique,11,10-11-2021,Adalimumab,"Infections,Réactions Cutanées,Céphalées",Efficace
+634,20,H,Crohn iléo-colique,2,08-01-2019,Adalimumab,Réactions Cutanées,Partiel
+635,69,F,Crohn colique,17,14-06-2021,Infliximab,Nausées,Efficace
+636,15,F,RCH extensive,1,20-03-2023,Mesalazine,,Efficace
+637,23,H,Crohn iléo-colique,2,04-02-2024,Adalimumab,,Partiel
+638,43,F,RCH extensive,2,11-11-2023,Mesalazine,,Échec
+639,67,H,Crohn iléal,3,28-10-2021,Ustekinumab,,Échec
+640,53,H,Crohn iléo-colique,1,20-08-2024,Ustekinumab,,Échec
+641,22,H,RCH distale,3,13-01-2023,Vedolizumab,Nausées,Partiel
+642,17,F,Crohn iléal,1,22-03-2018,Adalimumab,,Efficace
+643,79,F,RCH extensive,17,15-02-2022,Infliximab,Fatigue,Efficace
+644,33,F,Crohn colique,6,02-04-2009,Adalimumab,Infections,Partiel
+645,30,F,RCH distale,6,20-09-2024,Ustekinumab,,Efficace
+646,67,F,Crohn colique,6,11-07-2020,Adalimumab,Céphalées,Partiel
+647,32,H,MICI indéterminée,3,23-02-2023,Adalimumab,,Efficace
+648,20,F,Crohn iléo-colique,1,23-04-2011,Azathioprine,"Nausées,Infections",Efficace
+649,32,F,Crohn iléal,6,26-06-2022,Infliximab,Réactions Cutanées,Échec
+650,28,F,Crohn iléo-colique,4,20-07-2019,Adalimumab,"Infections,Fatigue,Céphalées",Efficace
+651,62,H,Crohn iléo-colique,6,25-08-2005,Adalimumab,,Partiel
+652,62,F,Crohn iléo-colique,7,01-06-2022,Adalimumab,,Efficace
+653,28,F,Crohn colique,4,15-05-2025,Azathioprine,,Efficace
+654,50,F,MICI indéterminée,2,04-12-2005,Adalimumab,"Céphalées,Infections",Efficace
+655,63,H,Crohn iléo-colique,3,13-07-2006,Infliximab,,Partiel
+656,38,H,RCH distale,5,10-09-2013,Infliximab,,Partiel
+657,43,F,RCH distale,4,09-11-2008,Infliximab,Infections,Partiel
+658,29,F,Crohn iléo-colique,2,01-05-2022,Ustekinumab,"Fatigue,Céphalées",Efficace
+659,29,H,Crohn iléo-colique,4,04-05-2020,Adalimumab,"Fatigue,Réactions Cutanées",Efficace
+660,17,F,RCH extensive,1,26-04-2011,Ustekinumab,,Partiel
+661,44,F,RCH distale,2,09-12-2020,Infliximab,,Efficace
+662,53,F,RCH distale,5,20-02-2006,Vedolizumab,"Céphalées,Fatigue,Arthralgie",Efficace
+663,38,H,Crohn iléal,6,12-07-2025,Adalimumab,,Efficace
+664,20,H,RCH distale,3,03-08-2020,Ustekinumab,Infections,Efficace
+665,44,H,Crohn iléal,3,30-12-2023,Adalimumab,Fatigue,Efficace
+666,50,H,Crohn iléal,19,08-07-2022,Ustekinumab,,Partiel
+667,51,H,Crohn colique,3,06-10-2021,Vedolizumab,Arthralgie,Échec
+668,75,F,Crohn iléal,6,23-08-2022,Ustekinumab,,Efficace
+669,27,F,Crohn colique,5,10-04-2025,Infliximab,,Efficace
+670,63,H,Crohn iléal,3,26-02-2023,Infliximab,,Efficace
+671,40,F,Crohn iléal,1,28-10-2011,Azathioprine,Fièvre,Partiel
+672,60,H,RCH extensive,6,13-03-2015,Mesalazine,,Partiel
+673,34,F,RCH distale,13,10-06-2025,Infliximab,,Efficace
+674,24,H,Crohn iléal,3,17-11-2021,Infliximab,"Infections,Fatigue,Douleurs articulaires",Efficace
+675,70,H,RCH distale,6,01-12-2024,Vedolizumab,Fatigue,Partiel
+676,16,H,Crohn colique,1,25-08-2023,Adalimumab,,Échec
+677,45,F,RCH distale,3,25-05-2022,Infliximab,,Efficace
+678,29,F,Crohn iléo-colique,6,18-08-2022,Vedolizumab,,Échec
+679,49,F,RCH extensive,3,25-12-2020,Infliximab,,Échec
+680,68,F,RCH extensive,1,12-09-2021,Infliximab,,Partiel
+681,15,F,RCH distale,1,25-11-2022,Ustekinumab,,Échec
+682,15,F,RCH extensive,1,27-05-2025,Adalimumab,,Échec
+683,44,H,Crohn iléal,5,29-07-2023,Azathioprine,"Infections,Douleurs abdominales",Partiel
+684,47,H,Crohn iléo-colique,6,27-04-2024,Adalimumab,Céphalées,Échec
+685,41,H,RCH distale,6,02-10-2008,Adalimumab,"Réactions Cutanées,Douleurs articulaires",Partiel
+686,56,F,Crohn colique,3,06-11-2023,Adalimumab,,Efficace
+687,53,H,Crohn iléo-colique,6,28-10-2023,Adalimumab,Infections,Efficace
+688,28,H,Crohn iléal,1,09-08-2022,Ustekinumab,,Efficace
+689,43,H,Crohn colique,16,18-06-2008,Adalimumab,,Efficace
+690,19,H,Crohn iléal,1,13-02-2006,Vedolizumab,"Infections,Céphalées",Efficace
+691,43,F,RCH distale,3,10-05-2025,Azathioprine,Fatigue,Efficace
+692,73,F,RCH distale,2,11-06-2022,Mesalazine,Éruptions cutanées,Partiel
+693,67,H,Crohn iléo-colique,3,11-09-2023,Ustekinumab,Fatigue,Efficace
+694,19,F,Crohn colique,1,24-02-2021,Mesalazine,,Efficace
+695,28,F,Crohn colique,6,29-08-2017,Azathioprine,"Douleurs abdominales,Fatigue",Échec
+696,16,H,RCH distale,1,22-11-2021,Adalimumab,Infections,Efficace
+697,31,F,RCH distale,8,28-10-2024,Infliximab,Infections,Efficace
+698,21,F,RCH distale,3,01-11-2020,Ustekinumab,,Efficace
+699,70,H,Crohn iléo-colique,1,10-09-2021,Adalimumab,Fatigue,Efficace
+700,65,F,Crohn iléal,1,24-12-2008,Infliximab,,Efficace
+701,63,F,Crohn iléal,6,23-02-2021,Adalimumab,,Efficace
+702,23,H,RCH distale,6,08-10-2015,Ustekinumab,,Efficace
+703,46,F,Crohn colique,3,10-06-2007,Vedolizumab,,Efficace
+704,19,H,Crohn colique,4,07-06-2021,Infliximab,Céphalées,Partiel
+705,37,F,Crohn iléal,2,26-05-2022,Adalimumab,Infections,Partiel
+706,27,H,Crohn iléo-colique,3,05-10-2009,Infliximab,,Efficace
+707,74,H,RCH distale,6,09-02-2009,Infliximab,,Efficace
+708,28,F,RCH distale,6,31-03-2006,Azathioprine,Infections,Échec
+709,68,H,RCH distale,2,21-02-2025,Infliximab,,Partiel
+710,34,H,MICI indéterminée,7,08-03-2023,Mesalazine,,Rechute
+711,54,F,Crohn iléo-colique,4,29-12-2022,Vedolizumab,,Efficace
+712,46,H,RCH extensive,15,31-12-2020,Azathioprine,Infections,Efficace
+713,15,F,Crohn iléal,1,31-05-2020,Adalimumab,Réactions Cutanées,Échec
+714,54,H,RCH extensive,6,08-08-2022,Adalimumab,Fatigue,Partiel
+715,15,F,RCH extensive,1,04-02-2021,Infliximab,,Partiel
+716,31,H,Crohn iléal,5,23-12-2021,Adalimumab,Infections,Échec
+717,79,F,Crohn iléo-colique,7,28-03-2012,Ustekinumab,,Efficace
+718,49,H,Crohn colique,6,14-04-2023,Azathioprine,,Efficace
+719,50,H,RCH distale,6,15-06-2008,Infliximab,,Partiel
+720,36,F,Crohn colique,4,01-03-2025,Adalimumab,,Échec
+721,52,H,Crohn colique,2,07-04-2024,Adalimumab,"Douleurs articulaires,Réactions Cutanées",Échec
+722,57,H,RCH extensive,3,08-11-2024,Adalimumab,,Efficace
+723,27,H,Crohn colique,10,05-03-2023,Adalimumab,"Infections,Fatigue",Partiel
+724,76,H,Crohn iléo-colique,1,31-10-2016,Adalimumab,,Efficace
+725,46,H,MICI indéterminée,6,11-01-2023,Ustekinumab,,Échec
+726,39,H,RCH extensive,10,01-09-2020,Infliximab,Douleurs articulaires,Rechute
+727,22,H,RCH distale,5,11-04-2012,Infliximab,,Efficace
+728,46,H,MICI indéterminée,6,09-02-2020,Infliximab,,Échec
+729,21,F,Crohn iléal,3,15-07-2024,Adalimumab,Douleurs articulaires,Échec
+730,38,F,RCH distale,13,08-12-2024,Adalimumab,Fatigue,Efficace
+731,80,H,RCH distale,3,01-03-2012,Adalimumab,,Efficace
+732,34,H,RCH distale,3,26-04-2024,Vedolizumab,,Efficace
+733,66,F,RCH distale,4,25-12-2020,Ustekinumab,,Efficace
+734,18,H,Crohn iléal,2,11-02-2022,Adalimumab,"Infections,Céphalées",Efficace
+735,35,F,RCH distale,5,03-05-2006,Adalimumab,,Efficace
+736,36,H,MICI indéterminée,9,21-08-2018,Infliximab,,Échec
+737,36,F,RCH distale,10,22-02-2006,Infliximab,,Partiel
+738,15,H,Crohn iléo-colique,1,04-03-2023,Infliximab,Fatigue,Efficace
+739,37,F,Crohn iléal,4,30-07-2009,Adalimumab,Céphalées,Partiel
+740,21,H,Crohn iléal,3,07-09-2020,Infliximab,Douleurs articulaires,Partiel
+741,25,F,RCH extensive,1,21-11-2022,Azathioprine,Nausées,Échec
+742,31,H,RCH distale,10,16-08-2016,Mesalazine,"Nausées,Douleurs abdominales",Efficace
+743,59,H,RCH distale,3,14-12-2024,Infliximab,Fatigue,Efficace
+744,54,H,Crohn iléal,2,05-06-2025,Adalimumab,,Efficace
+745,20,H,Crohn iléo-colique,3,10-07-2011,Azathioprine,Fatigue,Rechute
+746,16,F,Crohn iléal,1,12-01-2023,Vedolizumab,,Partiel
+747,17,F,Crohn iléal,1,07-11-2020,Adalimumab,Réactions Cutanées,Efficace
+748,40,F,RCH extensive,6,17-06-2024,Azathioprine,,Partiel
+749,15,F,Crohn iléal,1,15-07-2022,Infliximab,,Partiel
+750,48,H,Crohn iléo-colique,19,09-04-2023,Ustekinumab,,Efficace
+751,56,F,Crohn iléal,4,30-07-2022,Azathioprine,,Partiel
+752,23,F,Crohn colique,6,21-06-2021,Infliximab,Nausées,Efficace
+753,24,F,Crohn colique,4,15-08-2020,Azathioprine,Fatigue,Efficace
+754,55,H,MICI indéterminée,1,28-05-2025,Infliximab,,Efficace
+755,34,H,MICI indéterminée,2,14-08-2006,Mesalazine,,Efficace
+756,34,F,Crohn iléal,13,15-11-2024,Adalimumab,Douleurs articulaires,Efficace
+757,40,F,Crohn iléo-colique,6,02-08-2021,Adalimumab,,Partiel
+758,19,H,Crohn iléal,2,01-11-2023,Vedolizumab,"Fatigue,Céphalées",Efficace
+759,52,H,Crohn iléo-colique,4,18-04-2014,Vedolizumab,Fatigue,Partiel
+760,16,H,RCH distale,1,18-03-2009,Mesalazine,"Douleurs abdominales,Céphalées,Diarrhée",Efficace
+761,19,H,Crohn iléo-colique,2,28-03-2010,Ustekinumab,Nausées,Efficace
+762,71,H,MICI indéterminée,2,08-10-2022,Infliximab,,Partiel
+763,15,H,RCH distale,1,05-03-2022,Azathioprine,Douleurs abdominales,Efficace
+764,34,F,RCH distale,5,04-09-2023,Infliximab,,Partiel
+765,77,H,RCH extensive,5,14-08-2024,Infliximab,Nausées,Partiel
+766,43,F,RCH extensive,17,14-11-2022,Infliximab,,Partiel
+767,43,F,Crohn iléal,4,09-05-2013,Vedolizumab,,Partiel
+768,55,F,Crohn colique,5,07-07-2008,Infliximab,,Partiel
+769,21,H,Crohn iléo-colique,3,05-04-2021,Infliximab,Fatigue,Efficace
+770,20,H,MICI indéterminée,2,08-06-2022,Infliximab,,Efficace
+771,35,H,RCH distale,6,11-10-2021,Adalimumab,"Réactions Cutanées,Fatigue",Partiel
+772,59,H,RCH extensive,2,09-04-2017,Vedolizumab,Céphalées,Efficace
+773,61,H,RCH distale,2,05-09-2021,Adalimumab,,Partiel
+774,40,F,RCH distale,3,15-05-2024,Infliximab,,Efficace
+775,46,H,RCH extensive,1,01-10-2024,Ustekinumab,Céphalées,Partiel
+776,53,H,Crohn iléo-colique,1,13-08-2022,Infliximab,,Efficace
+777,27,F,Crohn iléal,1,17-04-2025,Infliximab,Douleurs articulaires,Efficace
+778,59,H,Crohn colique,4,28-05-2025,Adalimumab,,Échec
+779,30,H,RCH extensive,5,07-12-2024,Azathioprine,,Efficace
+780,70,H,Crohn iléal,16,21-06-2012,Adalimumab,Réactions Cutanées,Échec
+781,44,F,RCH extensive,2,24-05-2024,Adalimumab,,Efficace
+782,43,H,Crohn colique,5,21-11-2021,Adalimumab,,Partiel
+783,15,H,Crohn colique,1,22-03-2024,Azathioprine,,Efficace
+784,77,H,Crohn iléal,1,13-10-2016,Ustekinumab,,Efficace
+785,33,F,Crohn iléal,1,06-08-2023,Vedolizumab,"Infections,Nausées",Efficace
+786,59,F,Crohn colique,19,30-07-2024,Azathioprine,Nausées,Efficace
+787,28,H,RCH distale,2,05-03-2008,Infliximab,,Efficace
+788,24,F,RCH distale,4,09-10-2022,Ustekinumab,,Partiel
+789,31,F,RCH distale,4,03-10-2023,Azathioprine,,Échec
+790,70,F,Crohn iléal,2,22-01-2021,Vedolizumab,,Efficace
+791,49,F,Crohn colique,1,19-02-2008,Infliximab,,Efficace
+792,37,H,Crohn colique,4,06-03-2022,Adalimumab,Infections,Efficace
+793,18,F,Crohn iléo-colique,1,20-06-2022,Adalimumab,,Efficace
+794,29,H,Crohn iléo-colique,6,19-06-2018,Adalimumab,,Efficace
+795,66,H,Crohn iléal,12,24-08-2011,Adalimumab,,Partiel
+796,58,F,RCH distale,6,15-03-2022,Infliximab,,Efficace
+797,64,H,RCH distale,5,28-06-2023,Vedolizumab,,Rechute
+798,29,H,RCH distale,13,10-06-2023,Adalimumab,,Échec
+799,50,H,RCH distale,13,23-09-2022,Infliximab,,Efficace
+800,16,F,RCH extensive,1,09-08-2005,Adalimumab,Réactions Cutanées,Efficace
+801,61,H,Crohn iléo-colique,6,15-05-2014,Infliximab,,Efficace
+802,23,H,RCH extensive,3,13-05-2024,Vedolizumab,,Efficace
+803,59,H,Crohn iléo-colique,3,12-03-2025,Vedolizumab,"Infections,Arthralgie",Échec
+804,59,H,Crohn iléal,2,25-05-2024,Ustekinumab,Fatigue,Partiel
+805,68,F,Crohn iléo-colique,4,22-11-2023,Ustekinumab,,Échec
+806,79,F,Crohn iléo-colique,1,13-10-2024,Azathioprine,"Fièvre,Fatigue",Partiel
+807,51,F,Crohn colique,15,06-01-2022,Adalimumab,Fatigue,Efficace
+808,56,F,Crohn iléo-colique,20,21-12-2021,Vedolizumab,Arthralgie,Échec
+809,68,F,Crohn iléo-colique,10,09-04-2015,Azathioprine,Fièvre,Efficace
+810,31,H,Crohn iléal,6,31-10-2022,Ustekinumab,"Nausées,Céphalées,Douleurs articulaires",Efficace
+811,20,H,RCH distale,2,15-06-2011,Ustekinumab,,Partiel
+812,69,H,RCH distale,10,01-03-2023,Adalimumab,Réactions Cutanées,Efficace
+813,27,F,RCH distale,5,14-06-2022,Ustekinumab,,Efficace
+814,59,F,Crohn iléo-colique,4,26-01-2022,Adalimumab,,Partiel
+815,75,F,Crohn iléal,4,04-09-2016,Vedolizumab,,Efficace
+816,27,F,MICI indéterminée,3,04-09-2024,Infliximab,Nausées,Efficace
+817,47,H,RCH extensive,10,05-07-2024,Vedolizumab,,Efficace
+818,29,F,RCH distale,5,10-10-2022,Infliximab,Fatigue,Efficace
+819,78,H,Crohn colique,5,14-02-2019,Adalimumab,,Efficace
+820,16,H,RCH extensive,1,14-08-2019,Infliximab,,Efficace
+821,17,F,RCH extensive,2,29-11-2023,Infliximab,Nausées,Partiel
+822,70,H,Crohn iléal,3,22-08-2023,Vedolizumab,,Efficace
+823,47,H,RCH distale,5,27-12-2024,Infliximab,"Infections,Douleurs articulaires",Rechute
+824,31,H,Crohn iléo-colique,1,26-04-2022,Ustekinumab,,Échec
+825,58,H,Crohn colique,1,16-06-2022,Adalimumab,,Efficace
+826,53,H,Crohn iléo-colique,10,18-04-2017,Azathioprine,Infections,Efficace
+827,63,H,Crohn iléo-colique,14,26-03-2023,Infliximab,Douleurs articulaires,Efficace
+828,32,H,Crohn iléo-colique,4,28-05-2023,Infliximab,Fatigue,Partiel
+829,18,F,RCH distale,1,07-06-2013,Mesalazine,,Échec
+830,17,F,Crohn iléal,2,22-02-2023,Azathioprine,Infections,Efficace
+831,66,H,Crohn colique,9,28-05-2022,Vedolizumab,,Efficace
+832,18,H,Crohn iléo-colique,1,05-04-2024,Adalimumab,,Efficace
+833,50,H,RCH distale,1,08-08-2016,Adalimumab,Douleurs articulaires,Échec
+834,15,H,Crohn iléal,1,01-05-2021,Infliximab,,Efficace
+835,57,H,RCH distale,3,09-02-2023,Mesalazine,,Partiel
+836,50,F,RCH extensive,4,16-11-2020,Adalimumab,,Rechute
+837,15,F,Crohn colique,1,23-12-2021,Adalimumab,,Partiel
+838,59,H,RCH distale,12,10-07-2023,Infliximab,,Partiel
+839,45,F,Crohn colique,15,07-06-2019,Adalimumab,,Efficace
+840,18,H,RCH extensive,1,09-12-2024,Vedolizumab,,Efficace
+841,18,H,Crohn iléo-colique,1,04-08-2020,Adalimumab,Réactions Cutanées,Partiel
+842,29,F,Crohn iléo-colique,4,15-12-2021,Adalimumab,Céphalées,Efficace
+843,21,F,Crohn iléal,5,02-07-2009,Adalimumab,,Efficace
+844,20,H,RCH distale,1,27-10-2012,Adalimumab,Fatigue,Efficace
+845,55,H,Crohn colique,5,20-07-2025,Vedolizumab,,Partiel
+846,27,H,RCH distale,9,02-02-2010,Adalimumab,,Efficace
+847,17,F,Crohn iléo-colique,1,24-12-2007,Adalimumab,,Rechute
+848,17,H,Crohn colique,2,24-03-2024,Adalimumab,Douleurs articulaires,Partiel
+849,22,F,Crohn colique,7,29-12-2021,Adalimumab,,Efficace
+850,24,H,RCH distale,5,26-05-2019,Mesalazine,Éruptions cutanées,Efficace
+851,64,F,RCH distale,2,20-02-2025,Ustekinumab,Céphalées,Échec
+852,33,H,RCH distale,15,27-07-2023,Adalimumab,,Rechute
+853,23,H,Crohn iléo-colique,3,15-10-2022,Ustekinumab,,Rechute
+854,78,F,Crohn iléo-colique,2,19-04-2021,Azathioprine,,Efficace
+855,16,F,RCH distale,1,28-11-2021,Mesalazine,,Efficace
+856,63,F,Crohn colique,1,03-12-2008,Vedolizumab,Arthralgie,Partiel
+857,49,H,MICI indéterminée,2,03-07-2022,Azathioprine,,Partiel
+858,50,F,Crohn colique,3,22-11-2024,Adalimumab,"Douleurs articulaires,Infections",Échec
+859,69,F,Crohn iléal,1,04-06-2024,Azathioprine,Nausées,Efficace
+860,41,H,Crohn iléo-colique,4,10-08-2024,Adalimumab,,Efficace
+861,18,F,RCH extensive,1,08-07-2008,Mesalazine,,Efficace
+862,37,H,Crohn colique,2,09-06-2022,Ustekinumab,,Efficace
+863,17,H,RCH extensive,1,27-04-2021,Azathioprine,Fièvre,Efficace
+864,52,F,Crohn iléo-colique,11,27-12-2020,Ustekinumab,,Partiel
+865,16,H,RCH extensive,1,24-05-2024,Adalimumab,,Efficace
+866,69,F,RCH distale,18,08-06-2021,Azathioprine,,Partiel
+867,29,F,Crohn iléal,10,10-08-2022,Vedolizumab,Arthralgie,Partiel
+868,70,H,Crohn iléo-colique,1,05-10-2008,Ustekinumab,,Rechute
+869,49,F,Crohn iléal,6,28-11-2017,Azathioprine,Nausées,Partiel
+870,48,H,RCH distale,1,25-08-2021,Azathioprine,,Échec
+871,34,F,Crohn iléo-colique,1,03-01-2009,Infliximab,,Efficace
+872,56,H,RCH distale,14,19-10-2020,Mesalazine,,Efficace
+873,63,H,MICI indéterminée,16,20-07-2012,Vedolizumab,Nausées,Efficace
+874,73,H,Crohn iléal,4,26-08-2008,Azathioprine,"Fatigue,Fièvre,Douleurs abdominales",Efficace
+875,38,H,Crohn iléo-colique,3,02-04-2008,Vedolizumab,,Efficace
+876,17,H,Crohn colique,2,21-01-2024,Infliximab,"Fatigue,Nausées",Efficace
+877,34,H,Crohn colique,3,01-12-2007,Azathioprine,,Partiel
+878,60,F,RCH distale,5,28-03-2022,Vedolizumab,"Arthralgie,Infections",Efficace
+879,22,F,RCH distale,2,20-01-2021,Mesalazine,,Efficace
+880,74,F,RCH distale,17,02-01-2016,Vedolizumab,,Efficace
+881,51,H,Crohn iléo-colique,5,07-03-2025,Adalimumab,,Efficace
+882,52,H,Crohn iléal,15,11-12-2005,Infliximab,,Efficace
+883,52,F,Crohn colique,20,03-09-2008,Infliximab,,Partiel
+884,33,H,Crohn iléo-colique,6,01-05-2014,Azathioprine,"Nausées,Fatigue",Partiel
+885,23,F,Crohn iléo-colique,2,08-09-2023,Azathioprine,Fatigue,Efficace
+886,33,F,Crohn colique,6,22-04-2019,Adalimumab,,Rechute
+887,25,F,Crohn iléo-colique,5,06-06-2024,Adalimumab,"Céphalées,Fatigue",Échec
+888,23,H,Crohn iléo-colique,6,28-03-2022,Azathioprine,,Efficace
+889,40,H,Crohn iléo-colique,3,10-10-2024,Azathioprine,"Fatigue,Fièvre",Échec
+890,54,H,RCH distale,3,01-09-2006,Mesalazine,"Douleurs abdominales,Nausées",Partiel
+891,25,H,Crohn colique,9,20-07-2021,Infliximab,,Partiel
+892,34,F,Crohn iléo-colique,4,23-10-2023,Azathioprine,,Échec
+893,48,F,Crohn iléo-colique,12,14-09-2024,Azathioprine,Fatigue,Efficace
+894,41,H,Crohn colique,6,05-12-2021,Vedolizumab,,Partiel
+895,79,F,RCH extensive,4,03-02-2022,Adalimumab,,Partiel
+896,34,H,Crohn colique,10,09-05-2021,Ustekinumab,,Échec
+897,51,H,Crohn colique,11,13-10-2020,Azathioprine,"Douleurs abdominales,Nausées,Infections",Rechute
+898,24,H,RCH extensive,3,26-10-2024,Vedolizumab,Infections,Partiel
+899,29,F,RCH distale,1,15-01-2024,Azathioprine,,Échec
+900,56,H,Crohn iléal,4,10-07-2022,Vedolizumab,,Partiel
+901,19,F,Crohn colique,2,09-08-2022,Vedolizumab,,Efficace
+902,19,F,RCH distale,1,28-05-2023,Vedolizumab,Arthralgie,Échec
+903,49,H,RCH extensive,10,17-10-2022,Adalimumab,,Échec
+904,17,F,Crohn colique,1,02-09-2005,Vedolizumab,,Efficace
+905,20,F,Crohn colique,2,19-09-2008,Adalimumab,,Échec
+906,57,H,Crohn iléo-colique,4,30-01-2024,Infliximab,,Efficace
+907,18,F,RCH distale,3,17-03-2016,Infliximab,,Efficace
+908,15,F,RCH distale,1,26-12-2021,Infliximab,,Efficace
+909,73,H,Crohn colique,4,31-01-2022,Infliximab,,Efficace
+910,16,H,RCH extensive,1,20-04-2014,Azathioprine,"Nausées,Fatigue",Efficace
+911,79,F,Crohn colique,10,13-10-2023,Azathioprine,,Échec
+912,19,H,Crohn iléal,2,30-11-2020,Azathioprine,Nausées,Échec
+913,56,H,Crohn colique,3,16-10-2006,Infliximab,,Efficace
+914,49,H,Crohn iléo-colique,5,02-12-2020,Adalimumab,,Efficace
+915,57,F,Crohn colique,2,07-04-2008,Infliximab,,Efficace
+916,50,H,Crohn colique,5,30-11-2022,Azathioprine,,Partiel
+917,49,H,Crohn iléo-colique,7,28-07-2024,Vedolizumab,,Efficace
+918,55,F,Crohn iléal,2,03-09-2022,Adalimumab,"Fatigue,Infections",Efficace
+919,79,H,MICI indéterminée,5,02-04-2024,Azathioprine,"Fatigue,Infections,Nausées",Efficace
+920,80,F,Crohn iléal,8,30-08-2008,Mesalazine,,Partiel
+921,20,F,RCH extensive,4,19-06-2018,Mesalazine,,Efficace
+922,77,H,RCH distale,3,07-01-2021,Adalimumab,Infections,Partiel
+923,63,H,Crohn iléal,5,13-12-2020,Ustekinumab,Douleurs articulaires,Échec
+924,70,H,Crohn iléo-colique,4,19-01-2023,Infliximab,,Partiel
+925,28,F,Crohn iléal,3,06-02-2025,Adalimumab,,Efficace
+926,18,H,RCH distale,1,18-04-2022,Infliximab,,Efficace
+927,20,F,RCH distale,2,13-12-2020,Azathioprine,Fièvre,Efficace
+928,64,F,RCH extensive,8,21-09-2021,Mesalazine,,Efficace
+929,48,F,Crohn iléo-colique,5,01-12-2024,Adalimumab,,Efficace
+930,26,H,Crohn iléo-colique,3,30-11-2020,Azathioprine,"Fièvre,Nausées",Efficace
+931,67,H,Crohn iléal,1,27-12-2022,Azathioprine,,Échec
+932,75,H,RCH distale,2,12-08-2020,Infliximab,,Échec
+933,62,F,Crohn colique,5,01-12-2012,Ustekinumab,,Efficace
+934,18,H,RCH distale,1,01-05-2021,Mesalazine,,Efficace
+935,30,H,Crohn iléal,3,11-12-2021,Infliximab,"Douleurs articulaires,Fatigue",Efficace
+936,22,F,RCH distale,2,06-03-2024,Vedolizumab,,Partiel
+937,49,F,Crohn iléal,10,15-12-2005,Ustekinumab,Douleurs articulaires,Partiel
+938,41,H,Crohn colique,1,22-01-2022,Adalimumab,,Efficace
+939,51,H,Crohn iléal,17,12-10-2010,Adalimumab,"Infections,Fatigue",Partiel
+940,53,H,Crohn colique,5,17-12-2017,Vedolizumab,"Fatigue,Infections",Efficace
+941,37,H,RCH extensive,4,01-11-2021,Adalimumab,Douleurs articulaires,Efficace
+942,18,H,Crohn iléal,1,09-03-2023,Adalimumab,"Infections,Fatigue",Efficace
+943,24,H,RCH distale,4,09-05-2023,Vedolizumab,Arthralgie,Efficace
+944,43,F,RCH extensive,3,29-05-2016,Vedolizumab,,Rechute
+945,22,H,Crohn iléal,3,01-03-2023,Infliximab,,Efficace
+946,54,F,Crohn iléo-colique,3,16-10-2021,Adalimumab,,Partiel
+947,36,H,RCH distale,6,16-10-2020,Infliximab,,Efficace
+948,56,H,Crohn iléal,1,21-12-2022,Vedolizumab,,Efficace
+949,18,F,Crohn colique,1,07-09-2009,Ustekinumab,,Efficace
+950,27,H,RCH distale,4,15-10-2020,Vedolizumab,Arthralgie,Efficace
+951,17,H,Crohn iléo-colique,2,30-08-2006,Ustekinumab,,Échec
+952,57,H,Crohn iléo-colique,3,02-10-2006,Infliximab,Réactions Cutanées,Efficace
+953,15,H,RCH distale,1,09-01-2009,Azathioprine,,Échec
+954,74,F,Crohn iléal,1,29-07-2006,Azathioprine,,Partiel
+955,49,F,Crohn colique,4,20-11-2011,Infliximab,,Partiel
+956,53,H,RCH extensive,3,24-01-2025,Vedolizumab,,Partiel
+957,45,H,RCH distale,4,11-01-2023,Azathioprine,"Fièvre,Fatigue,Nausées",Efficace
+958,45,H,Crohn iléal,3,22-12-2022,Adalimumab,,Efficace
+959,68,F,Crohn iléal,5,12-09-2020,Infliximab,,Échec
+960,24,F,RCH extensive,3,25-08-2024,Vedolizumab,"Céphalées,Fatigue",Efficace
+961,47,H,RCH distale,2,04-06-2019,Infliximab,,Échec
+962,26,H,Crohn colique,3,25-03-2021,Ustekinumab,,Efficace
+963,67,F,MICI indéterminée,13,01-03-2015,Vedolizumab,"Fatigue,Nausées",Efficace
+964,57,H,Crohn iléal,15,04-10-2012,Ustekinumab,"Céphalées,Douleurs articulaires,Infections",Efficace
+965,41,F,RCH distale,6,21-04-2024,Vedolizumab,Fatigue,Efficace
+966,59,H,RCH distale,1,23-10-2023,Adalimumab,Réactions Cutanées,Efficace
+967,80,F,Crohn iléo-colique,1,03-02-2025,Adalimumab,,Efficace
+968,32,H,Crohn iléo-colique,3,17-05-2014,Adalimumab,Infections,Efficace
+969,59,H,RCH distale,3,07-10-2022,Infliximab,,Partiel
+970,57,H,Crohn colique,7,27-05-2022,Adalimumab,"Infections,Douleurs articulaires",Partiel
+971,34,H,RCH distale,1,10-11-2020,Infliximab,"Nausées,Douleurs articulaires",Efficace
+972,40,H,RCH distale,7,20-06-2022,Vedolizumab,Infections,Partiel
+973,69,H,Crohn iléo-colique,2,08-11-2015,Ustekinumab,,Partiel
+974,22,H,Crohn iléo-colique,3,15-09-2020,Infliximab,,Efficace
+975,50,H,RCH distale,4,22-09-2023,Vedolizumab,Arthralgie,Partiel
+976,32,H,RCH distale,3,12-01-2022,Infliximab,,Échec
+977,21,F,RCH extensive,2,05-01-2024,Infliximab,Douleurs articulaires,Efficace
+978,49,H,Crohn iléo-colique,11,01-01-2022,Adalimumab,,Efficace
+979,31,H,Crohn colique,3,12-11-2022,Adalimumab,Douleurs articulaires,Efficace
+980,70,H,Crohn colique,3,09-05-2021,Azathioprine,Infections,Échec
+981,43,F,MICI indéterminée,2,15-04-2025,Mesalazine,,Partiel
+982,41,H,RCH distale,8,26-03-2014,Azathioprine,Infections,Partiel
+983,66,F,Crohn iléal,9,04-03-2023,Azathioprine,,Échec
+984,43,F,RCH distale,1,03-05-2025,Azathioprine,,Efficace
+985,26,F,RCH extensive,3,31-12-2023,Adalimumab,Fatigue,Partiel
+986,32,F,Crohn iléal,5,29-10-2007,Adalimumab,Réactions Cutanées,Efficace
+987,47,F,Crohn colique,1,17-05-2024,Ustekinumab,"Douleurs articulaires,Nausées",Partiel
+988,80,F,Crohn iléal,1,28-02-2025,Azathioprine,Nausées,Efficace
+989,21,H,RCH distale,3,15-11-2020,Ustekinumab,,Efficace
+990,54,F,RCH distale,5,17-08-2006,Infliximab,,Efficace
+991,27,H,RCH extensive,9,09-12-2024,Vedolizumab,Nausées,Partiel
+992,43,H,Crohn iléo-colique,6,12-04-2023,Infliximab,,Partiel
+993,59,F,Crohn iléal,4,16-09-2013,Infliximab,"Céphalées,Infections,Douleurs articulaires",Partiel
+994,25,H,Crohn iléo-colique,3,28-06-2011,Ustekinumab,,Efficace
+995,25,F,Crohn iléal,1,10-01-2023,Vedolizumab,Infections,Efficace
+996,24,F,MICI indéterminée,6,10-05-2024,Ustekinumab,,Partiel
+997,52,H,Crohn colique,5,13-06-2022,Adalimumab,Infections,Efficace
+998,75,F,RCH distale,11,04-01-2022,Azathioprine,,Échec
+999,40,F,Crohn colique,5,16-01-2022,Ustekinumab,,Échec
+1000,54,F,Crohn iléo-colique,19,28-01-2024,Vedolizumab,"Infections,Arthralgie",Efficace
