@@ -114,11 +114,3 @@ def aide_decision(df):
             # Message d'erreur simple
             st.error("Pas assez de données pour ce profil de patient.")
             
-    else:
-        # Message d'attente
-        st.write("👆 Complétez le formulaire et cliquez sur le bouton pour obtenir une recommandation")
-        
-        # Exemple visuel pour illustrer la page même sans action
-        st.subheader("Exemple de recommandation")
-        st.image("https://www.plascontrends.co.za/wp-content/uploads/2017/10/placeholder-image.png", 
-                 caption="Visualisation des options thérapeutiques")
